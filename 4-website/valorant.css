@@ -1,0 +1,188 @@
+.box {
+	border: 2px solid black;
+	max-width: 100%;
+}
+
+.dot-box {
+	border: 2px dotted black;
+	max-width: 100%;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.col {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.align-right {
+	position: absolute;
+	right: 50px;
+	width: 150px;
+}
+
+.center {
+	align-content: center;
+	justify-content: center;
+}
+
+.left-indent {
+	margin-left: 100px;
+}
+
+.navbar {
+	height: 50px;
+	padding: 10px;
+	position: sticky;
+	top: 0;
+}
+
+.navbar-icon {
+	height: 45px;
+	width: 45px;
+	margin-right: 5px;
+}
+
+.navbar-component {
+	height: 45px;
+	width: 90px;
+}
+
+.main-section {
+	height: 800px;
+	padding: 10px;
+}
+
+.section {
+	height: 600px;
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.section-title1 {
+	height: 130px;
+	width: 500px;
+	margin-bottom: -10px;
+	margin-right: 735px;
+}
+
+.section-title2 {
+	height: 150px;
+	width: 750px;
+	margin-bottom: 50px;
+}
+
+.section-title3 {
+	height: 200px;
+	width: 275px;
+	margin-bottom: 50px;
+}
+
+.section-title4 {
+	height: 150px;
+	width: 500px;
+	margin-bottom: 50px;
+}
+
+.footer {
+	height: 400px;
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
+
+.valorant {
+	height: 200px;
+	width: 800px;
+	margin-top: 30px;
+}
+
+.subtext {
+	height: 25px;
+	width: 500px;
+	margin-top: 20px;
+}
+
+.button {
+	height: 60px;
+	width: 250px;
+	margin-top: 50px;
+}
+
+.image1 {
+	height: 200px;
+	width: 430px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.image2 {
+	height: 350px;
+	width: 650px;
+	margin-left: 250px;
+	margin-bottom: 20px;
+}
+
+.image3 {
+	height: 750px;
+	width: 750px;
+	margin-top: -100px;
+}
+
+.image4 {
+	position: absolute;
+	height: 750px;
+	width: 1330px;
+	margin-top: -100px;
+	margin-left: 300px;
+}
+
+.t1 {
+	height: 25px;
+	width: 100px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+}
+
+.t2 {
+	height: 75px;
+	width: 400px;
+	margin-bottom: 20px;
+}
+
+.t3 {
+	height: 25px;
+	width: 350px;
+	margin-bottom: 20px;
+}
+
+.t4 {
+	height: 200px;
+	width: 350px;
+	margin-bottom: 20px;
+}
+
+.t5 {
+	height: 150px;
+	width: 350px;
+}
+
+.t6 {
+	height: 50px;
+	width: 600px;
+	margin-bottom: 20px;
+}
+
+.icon{
+	height: 20px;
+	width: 20px;
+	margin: 20px;
+}
